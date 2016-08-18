@@ -8,3 +8,5 @@ released on http://zetacentauri.com
 
 Clicking the button or typing the key for a drum sound will play 
 that drum's audio.
+
+For a more advanced drum pad application, see http://zetacentauri.com/software_drumpads.htm
