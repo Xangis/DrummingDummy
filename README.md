@@ -1,5 +1,4 @@
-Drumming Dummy
---------------
+# Drumming Dummy
 
 Drumming Dummy is a simple drum pad with four sounds. It was originally
 released on http://zetacentauri.com
@@ -10,3 +9,11 @@ Clicking the button or typing the key for a drum sound will play
 that drum's audio.
 
 For a more advanced drum pad application, see http://zetacentauri.com/software_drumpads.htm
+
+To download the pre-built application, get this zip file:
+
+https://github.com/Xangis/DrummingDummy/blob/master/Release/DrummingDummy1.zip
+
+# Development Status
+
+I do not maintain this application and do not ever intend to update it.
